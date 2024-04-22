@@ -22,15 +22,15 @@ Este projeto em Excel com VBA foi desenvolvido para auxiliar na gestão de venda
 
 ## Instruções de Uso:
 1. **Cadastro de Vendas:**
-  -Clique no botão "Formulário de Vendas" para abrir o formulário de cadastro.
-  -Preencha os campos solicitados (vendedor, produto, estado e preço) e clique em "Cadastrar".
-  -Após o cadastro, uma mensagem de confirmação será exibida e os dados serão registrados na planilha.
+   - Clique no botão "Formulário de Vendas" para abrir o formulário de cadastro.
+   - Preencha os campos solicitados (vendedor, produto, estado e preço) e clique em "Cadastrar".
+   - Após o cadastro, uma mensagem de confirmação será exibida e os dados serão registrados na planilha.
    
 2. **Acesso às Análises:**
-  -Clique no botão "Acessar Análises" para visualizar o dashboard de análises detalhadas dos dados de vendas.
+   - Clique no botão "Acessar Análises" para visualizar o dashboard de análises detalhadas dos dados de vendas.
    
 3. **Controle de Estoque:**
-  -Clique no botão "Acessar Estoque" para acessar o controle de estoque e verificar a situação atual dos produtos.
+   - Clique no botão "Acessar Estoque" para acessar o controle de estoque e verificar a situação atual dos produtos.
    
 Este projeto visa facilitar o gerenciamento e a análise de vendas e estoque, proporcionando uma visão abrangente do desempenho do negócio.
 
